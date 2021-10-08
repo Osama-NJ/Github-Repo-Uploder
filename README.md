@@ -1,4 +1,4 @@
-<h1 align="center"> Github Repo Uploder</h1> 
+<h1 align="center"> Github Repositories Uploder</h1> 
 
 ## Introduction 
 Github Bot that automate the creation of remote repositories and uploading desired files from local repositories to their remote repositories.
