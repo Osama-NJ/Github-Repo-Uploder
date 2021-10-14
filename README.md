@@ -1,10 +1,7 @@
 <h1 align="center"> Github Repositories Uploder</h1> 
 
-## Introduction 
-Github Bot that automate the creation of remote repositories and uploading desired files from local repositories to their remote repositories.
-
-## Requirements
-* Python  3.x
+### Requirements:
+* 🐍Python  3.x
 * Google chrome driver is compatible with your browser, if you dont have chromedriver downloaded you can go download it from here: https://chromedriver.storage.googleapis.com/index.html
 
 
