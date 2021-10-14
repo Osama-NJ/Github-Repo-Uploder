@@ -1,7 +1,7 @@
 <h1 align="center"> Github Repositories Uploder</h1> 
 
-### Requirements
-* Python  3.x
+### Requirements:
+* 🐍Python  3.x
 * Google chrome driver is compatible with your browser, if you dont have chromedriver downloaded you can go download it from here: https://chromedriver.storage.googleapis.com/index.html
 
 
