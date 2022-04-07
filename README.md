@@ -13,7 +13,7 @@
 
 
 <strong>Execution:</strong>
-* Have Python 3 or higher installed on the machine;
+* Has Python 3 or higher installed on the machine;
 * Install Python modules &#8594;(Selenium Webdriver, Time, Os , Sys)
 * To start and run the code, Change the chromedriver executable path directory in the code  and choose the directory for your system and unzip the "chromedriver" file;
 * Execute the command in the terminal:<strong> python GitHub Repositories Uploder.py</strong>.
